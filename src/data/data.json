@@ -1,0 +1,115 @@
+{
+  "Header": {
+    "title": "Who am I?",
+    "paragraph": "I am a social innovator and serial entrepreneur focused on helping people, especially underrepresented communities, reach their full potential through entrepreneurship, innovation, and economic empowerment."
+  },
+  "About": {
+    "paragraph": "Many have described me as transparent, authentic, bold, and human-centric. I have also been referred to as the “Social Disruptor” because I’m constantly innovating and improving how things work. My mission is to help those in underrepresented communities by working to reduce the inequities visible in technology and entrepreneurship. ",
+    "Background": 
+    	"I grew up in a tough area where I could have fallen through the cracks if it were not for the values instilled by my parents. While I watched many succumb to violence, I knew there was something bigger out there. My leadership skills helped me thrive in school. I studied Psychology concentrating on Behavioral Change, with a minor in International Business. After graduation, I worked at non-profits. However, after growing tired of the politics surrounding the non-profit world, I launched my first venture, the CEO of my Life. The CEO of my Life focused on entrepreneurship as the foundation to establish leadership qualities, life skills, and self-sufficiency. I based this venture on my methodology PRENEURology, a framework that successfully and holistically developed the entrepreneurship skills of many. Since, I have launched many other ventures and initiatives and have dedicated my life to improving the community and helping entrepreneurs become their best selves."
+    
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+ 
+  "Testimonials": [
+    {
+      "img": "img/testimonials/marthasVineyardimg.jpeg",
+      "text": "I will be a pannel speaker at this event in Massachusetts at Martha's Vineyard from August 17-19th.",
+      "name": "Martha’s Vineyard Event"
+    },
+    {
+      "img": "img/testimonials/smartCityAgain.jpeg",
+      "text": "I will be one of many pannel speakers at the Smart City Expo in Miami on September 14th.",
+      "name": "Smart City Expo"
+    },
+    {
+      "img": "img/testimonials/teamwork.jpeg",
+      "text": "On September 15th I will be oppening up the application to join my next group coaching cohort. ",
+      "name": "Registration opens for group coaching cohort"
+    },
+    {
+      "img": "img/testimonials/clintonglobalinitiative.jpeg",
+      "text": "I will be a pannel speaker at the Clinton Global Initiative Conference in New York City from September 19-20th.",
+      "name": "Clinton Global Initiative"
+    },
+    {
+      "img": "img/testimonials/congressionalblackcaucus.png",
+      "text": "I will be attending and speaking at the Congressional Black Caucus Week in DC from September 29th-October 1st. I will also be launching my newest initiative, Future in Color.",
+      "name": "Congressional Black Caucus Week & Future in Color Initiative Soft "
+    },
+    {
+      "img": "img/testimonials/summercamp.png",
+      "text": "On November 1st I will be opening up early bird applications for My Life Summer Camps which exposes the youth to business and entrepreneurship.",
+      "name": "Early bird applications opens for My Life Summer Camps"
+    }
+    
+  ],
+  "Team": [
+    {
+      "img": "img/team/thegreenproject.jpeg",
+      "name": "The Green Project",
+      "job": "The Green Project explores and redefines success thorough the lens of historical and contemporary Black businesses."
+    },
+    {
+      "img": "img/team/diversity.png",
+      "name": "Equity R&D District Labs",
+      "job": "The R&D accelerator establishes a collaborative model that delivers equity R&D and innovation injections into underserved communities of color."
+    },
+    {
+      "img": "img/team/ceoOfMyLife.jpeg",
+      "name": "CEO of My Life Academy",
+      "job": "The CEO of My Life Academy provides a pipeline for entrepreneurial leadership and innovation programs for youth and young adults to connect to the future of work and beyond."
+    },
+    {
+      "img": "img/team/entrepreneurship.jpeg",
+      "name": "PRENEUrology Global",
+      "job": "PRENEUrology Global serves entrepreneurs around the world by supporting emerging innovation and entrepreneurial ecosystems through a human-centered approach."
+    }
+  ]
+}
